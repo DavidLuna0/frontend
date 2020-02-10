@@ -1,5 +1,6 @@
-.teste {
-    background-color: blue;
-    height: 100px;
-    width: 200px;
-}
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FAFAFA;
+  }
